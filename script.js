@@ -13,7 +13,7 @@ function firstPageAnim() {
     y: "-10",
     opacity: 0,
     duration: 1.5,
-    ease: Expo.easeInOut, 
+    ease: Expo.easeInOut,  
   })
     .to(".boundingelem", {
       y: 0,
