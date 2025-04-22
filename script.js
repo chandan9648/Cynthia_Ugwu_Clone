@@ -1,5 +1,5 @@
   
-var timeout;
+var timeout;  
 
 const scroll = new LocomotiveScroll({
   el: document.querySelector("#main"),   
