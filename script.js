@@ -3,7 +3,7 @@ var timeout;
 
 const scroll = new LocomotiveScroll({ 
   el: document.querySelector("#main"),       
-  smooth: true,
+  smooth: true, 
 }); 
   
 function firstPageAnim() {
